@@ -1,1 +1,3 @@
 # D-easychooose-helper
+"D-easychooose helper" is an auxiliary tool app to help select people in distress. When faced with a choice problem, the user can use this app to randomly select one of the options to execute, without having to worry about the difference between these options, to achieve a better and easier life. At the same time, this app also combines a high degree of customization. Users can use it as a notepad to help them record their favorite things.For more comments and suggestions, please contact us: "D-easychooose helper" official email: shizhenhon@icloud.com
+![Image text](https://github.com/qinfendezhou/D-easychooose-helper/blob/main/1/%E5%BA%94%E7%94%A8%E5%95%86%E5%9F%8E--1242X2208-0.png)
